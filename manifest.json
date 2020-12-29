@@ -8,8 +8,8 @@
 	"default_popup":"index.html"
 },
 
-"premissions":[
-		"activeTab"
-]
+  "permissions": [
+    "storage"
+  ]
 
 }
